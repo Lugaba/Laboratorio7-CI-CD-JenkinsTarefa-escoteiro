@@ -5,7 +5,7 @@ package br.luca;
  *
  */
 public class Escoteiro {
-    public long subsidioSocio(long tempoSocio) {
+    public long subsidioSocio(double tempoSocio) {
         return 0;
     }
 
