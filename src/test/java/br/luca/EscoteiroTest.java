@@ -18,7 +18,7 @@ public class EscoteiroTest {
 
         assertEquals(35, objEscoteiro.subsidioSocio(2));
 
-        assertEquals(55, objEscoteiro.subsidioSocio(3));
+        assertEquals(50, objEscoteiro.subsidioSocio(3));
     }
 
     @Test
